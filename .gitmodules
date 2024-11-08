@@ -1,0 +1,7 @@
+[submodule "MusicWith"]
+	path = MusicWith
+	url  = https://github.com/kimhappy/MusicWith
+
+[submodule "MusicWithServer"]
+	path = MusicWithServer
+	url  = https://github.com/kimhappy/MusicWithServer
